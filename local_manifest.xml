@@ -37,4 +37,16 @@
       remote="github"
       revision="edited-23.2" />
 
+  <project 
+      path="hardware/dolby" 
+      name="LineageOS/android_hardware_dolby" 
+      remote="github" 
+      revision="lineage-22.0" />
+  
+  <project 
+      path="device/oneplus/common" 
+      name="LineageOS/android_device_oneplus_common" 
+      remote="github" 
+      revision="lineage-21.0" />
+
 </manifest>
